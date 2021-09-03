@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello :earth_americas: <br>
+
+
+:computer: 4/8 Sistemas de Informação <br>
+
+:books: Estudando HTML, CSS, Java Script, Node, MySql... <br>
+
 
 <!--
 **DevPauloDias/DevPauloDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
